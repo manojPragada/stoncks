@@ -1,0 +1,1 @@
+"""Stoncks NQ! alert application."""
